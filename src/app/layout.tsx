@@ -7,8 +7,7 @@ import AuthProvider from "./AuthProvider";
 const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Travel Agency",
-  description: "Full-stack web app about Information Travel Agency",
+  title: "next-auth",
 };
 
 export default function RootLayout({
